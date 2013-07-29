@@ -1,0 +1,14 @@
+for LİNUX
+===================
+compiler
+========
+$ make
+
+install
+========
+$ make install (as root)
+
+
+
+for WINDOWS
+==================
