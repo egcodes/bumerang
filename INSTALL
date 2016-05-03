@@ -1,5 +1,3 @@
-for LİNUX
-===================
 compiler
 ========
 $ make
@@ -7,8 +5,3 @@ $ make
 install
 ========
 $ make install (as root)
-
-
-
-for WINDOWS
-==================
